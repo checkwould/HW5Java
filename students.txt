@@ -1,0 +1,5 @@
+lexandr@lenta.ru          task1 10 task2 9 task3 7 task4 6 
+nastena.boytsova@mail.ru  task1 7 task2 1 task3 0 
+checkwould@gmail.com      task1 2 task2 7 task3 6
+dmitriy.kasincev@mail.ru  task2 8 task3 6 
+pishite_poline@icloud.com task1 3 task2 6 task3 10 
